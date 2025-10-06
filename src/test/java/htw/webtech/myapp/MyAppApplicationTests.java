@@ -1,10 +1,10 @@
-package htw.webtech.todo_app;
+package htw.webtech.myapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class TodoAppApplicationTests {
+class MyAppApplicationTests {
 
 	@Test
 	void contextLoads() {

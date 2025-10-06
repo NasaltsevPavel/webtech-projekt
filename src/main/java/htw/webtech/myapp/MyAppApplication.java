@@ -1,13 +1,13 @@
-package htw.webtech.todo_app;
+package htw.webtech.myapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TodoAppApplication {
+public class MyAppApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(TodoAppApplication.class, args);
+		SpringApplication.run(MyAppApplication.class, args);
 	}
 
 }
